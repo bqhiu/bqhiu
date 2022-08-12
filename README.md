@@ -27,43 +27,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 😏 MY Name IS :- AFRAN NOMAN
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🇧🇩 Live In :- BANGLADESH
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 📕 SCHOOL & Class :- কমু না 😁
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🙂 Relation :- Born To Single 💔
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 👉 Team Name :- CLAY Hacker 🔥
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🤲🏻 Rellglon :- ISLAM
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 📱FacebooK :- [ AFRAN NOMAN ](https://www.facebook.com/CYBER.NOMAN)
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 📱FB PagE :- [ AFRAN NOMAN ](https://www.facebook.com/BDCyberMafia/)
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 💻 GiTHub:- [ Cyber-Noman ](https://github.com/Cyber-Noman)
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- ⚡ Fun fact **I think I am Funny**
+
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
