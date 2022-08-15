@@ -45,7 +45,7 @@
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=le-cuong-hacker1111&show_icons=true&theme=nomal"/>
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-cuong-hacker1111&theme=nomal"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Noman-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+</td>
     </a>
   </tr>
    <tr>
