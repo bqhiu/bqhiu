@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A VietNam- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
@@ -10,7 +10,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Bùi_Quang_Hiệu;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+BùiㅤQuangㅤHiệu;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
  
 </p>
  
@@ -18,7 +18,7 @@
  
 <h3 align="center">Do Something Think Something </h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cyber-Nomant&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Cyber-Noman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cyber-Nomant&label=Profile%20views&color=eb4d3d&style=flat-square" alt="bqhieu" /> </p>
 </i></b></h3>
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
