@@ -10,7 +10,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Cyber-Noman;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Bùi Quang Hiệu;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
  
 </p>
  
@@ -32,10 +32,10 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
  
-[![Instagram](https://img.shields.io/badge/INsTa-%40Cyber.Noman-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Cyber.Noman)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/CYBER.NOMAN)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/CYBER.NOMAN)
-[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/Cyber-Noman)
+[![Instagram](https://img.shields.io/badge/INsTa-%40Cyber.Noman-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/bqhieu.info)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/BQHieu.info)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/BQHieu.info)
+[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/bqhiu)
  
 
 <table border="1">
@@ -53,7 +53,7 @@
     
   </tr>
 </table>
-<br>
+
  
 ### Profile Visitors ☹️💔
  
