@@ -40,8 +40,7 @@
 
 <table border="1">
   <tr>
-<div>
- <a href="https://github.com/le-cuong-hacker1111">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="zxcr9999-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="zxcr9999-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
