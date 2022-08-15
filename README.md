@@ -42,9 +42,10 @@
   <tr>
 <div>
  <a href="https://github.com/le-cuong-hacker1111">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=le-cuong-hacker1111&show_icons=true&theme=nomal"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-cuong-hacker1111&theme=nomal"/>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="zxcr9999-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="zxcr9999-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
 </td>
     </a>
   </tr>
