@@ -63,7 +63,7 @@
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/hoaan1995"><img alt="bqhiu Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=bqhiu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=bqhiu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
  
 
