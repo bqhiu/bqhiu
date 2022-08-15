@@ -10,7 +10,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Bùi Quang Hiệu;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Bùi_Quang_Hiệu;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+😉)](https://git.io/typing-svg)
  
 </p>
  
@@ -52,14 +52,8 @@
     <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyber-Noman&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Cyber-Noman's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
-</table>
 
- 
-### Profile Visitors ☹️💔
- 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Cyber-Noman.visitor-badge&left_color=blue&right_color=yellow)
-<br />
- 
+
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
