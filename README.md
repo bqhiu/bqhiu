@@ -40,7 +40,11 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/Cyber-Noman/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Noman&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Cyber-Noman GiTHub Stats"/></td> </a>
+<div>
+ <a href="https://github.com/le-cuong-hacker1111">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=le-cuong-hacker1111&show_icons=true&theme=nomal"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-cuong-hacker1111&theme=nomal"/>
+</div>
     <td valign="top"> <a href="https://github.com/MrDarkYT/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Noman-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
